@@ -35,8 +35,8 @@ https://blog.naver.com/javaking75/140190267626
 # :notebook_with_decorative_cover: 프로그램 구성
 - 테이블
 <table>
-  <tr rowspan="2" >
-    <td>member</td>
+  <tr>
+    <th colspan="2">member</th>
   </tr>
   <tr>
     <td>id</td>
