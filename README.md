@@ -28,7 +28,7 @@ https://blog.naver.com/javaking75/140190267626
 2. 성별, 가입일 필드 추가
 3. 가입일 필드 추가
 4. 메뉴바 추가
-5. 차트 추가
+5. Jfreechart를 이용한 차트 추가
 
 <br>
 
