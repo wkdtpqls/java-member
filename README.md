@@ -4,7 +4,7 @@
 - 이 프로젝트은 오픈소스 프로그램을 참고하여 제작되었습니다. 이전 프로그램을 분석하고 그 기능과 구조를 이해한 뒤, 필요한 수정과 추가 기능을 직접 구현하였습니다. 
 - 따라서, 이 프로그램은 기존 프로그램을 기반으로 하되, 개선된 기능과 사용자 친화적인 인터페이스를 제공하고 있습니다.
 -
-## 출처 사이트
+## 출처 
 https://blog.naver.com/javaking75/140190267626
 
 
@@ -74,6 +74,8 @@ https://blog.naver.com/javaking75/140190267626
 - 또한 프로그램 종료도 가능합니다.
 </pre>
 
+<br>
+
 ### 회원 등록, 수정, 삭제 화면
 ![수정삭제](https://github.com/wkdtpqls/java-member/assets/112832631/ff03e998-c9ae-489b-98bc-aba1deb7f754)
 <pre>
@@ -82,12 +84,16 @@ https://blog.naver.com/javaking75/140190267626
 - 수정 시에는 아이디는 수정되면 안되므로 Enabled 처리되어 있습니다.
 </pre>
 
+<br>
+
 ### 통계 메뉴 화면
 ![스크린샷 2023-06-12 010029](https://github.com/wkdtpqls/java-member/assets/112832631/87dbe259-f2d5-4135-927f-73e6a03c04e0)
 <pre>
 - 두번째 메뉴 탭입니다.
 - 회원의 차트를 확인할 수 있습니다.
 </pre>
+
+<br>
 
 ### 회원 별 차트 화면
 ![스크린샷 2023-06-12 010040](https://github.com/wkdtpqls/java-member/assets/112832631/613b9db3-6b1d-4685-b9be-eca80108c801)
