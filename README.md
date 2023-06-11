@@ -44,32 +44,15 @@
 ### 메인화면
 ![메인이미지](https://github.com/wkdtpqls/java-member/assets/112832631/26791fe3-7716-4932-a63e-b005a944e408)
 
+### 회원 등록, 수정, 삭제 화면
+![수정삭제](https://github.com/wkdtpqls/java-member/assets/112832631/ff03e998-c9ae-489b-98bc-aba1deb7f754)
 
-### About Tab
-![About Tab](https://user-images.githubusercontent.com/112832631/206887334-2a17251e-8462-4db1-a120-6a4e933013b1.png)
+### 통계 메뉴 화면
+![스크린샷 2023-06-12 010029](https://github.com/wkdtpqls/java-member/assets/112832631/87dbe259-f2d5-4135-927f-73e6a03c04e0)
 
-### Skills Tab
-![Skills Tab](https://user-images.githubusercontent.com/112832631/206887350-929077ce-3970-40f6-ba86-1c644b05137d.png)
+### 회원 별 차트 화면
+![스크린샷 2023-06-12 010040](https://github.com/wkdtpqls/java-member/assets/112832631/613b9db3-6b1d-4685-b9be-eca80108c801)
 
-### Project Tab
-![Project Tab](https://user-images.githubusercontent.com/112832631/206887358-fc6fb02a-1877-4f7a-bd16-6a89b9279df0.png)
-
-
-### Contact Tab
-![Contact Tab](https://user-images.githubusercontent.com/112832631/206887369-8d87b3a0-6312-42aa-a39e-8297d4c29d9b.png)
-
-<br>
-
-## Demo
-이 포트폴리오의 양식을 보려면 [클릭](https://startbootstrap.com/theme/stylish-portfolio)하세요!
-
-<br>
-
-
-## Contributing
-모든 기여, 문제, 기능 팁을 환영합니다.
-
-## Contact
 
 다른 의견이나 아이디어가 있으시다면 [@sebinjab](https://twitter.com/)으로 연락해주세요.
 
