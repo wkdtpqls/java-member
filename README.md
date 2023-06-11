@@ -38,21 +38,12 @@
   </tr>
 </table>  
 
-- [메인화면](#website-ui-gallary)
-	* [tab1](#welcome-tab)
-	* [tab2](#about-tab)
-	* [tab3](#skills-tab)
-	* [tab4](#project-tab)
-	* [tab5](#contact-tab)
-- [차트](#demo)
-
-
 <br>
 
-## Website UI Gallary
+## 회원 관리 프로그램
+### 메인화면
+![메인이미지](https://github.com/wkdtpqls/java-member/assets/112832631/26791fe3-7716-4932-a63e-b005a944e408)
 
-### Welcome Tab
-![Welcome Tab](https://user-images.githubusercontent.com/112832631/206887730-59c7be18-a8db-41e8-9507-34a5ba44ffe8.png)
 
 ### About Tab
 ![About Tab](https://user-images.githubusercontent.com/112832631/206887334-2a17251e-8462-4db1-a120-6a4e933013b1.png)
